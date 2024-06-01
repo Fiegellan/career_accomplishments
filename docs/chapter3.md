@@ -1,14 +1,13 @@
 
 ### `chapter3.md`
 
-```markdown
 # Chapter 3: Conclusion
 
-Thank you for reading! We hope you found this book useful and that it helped you get started with MkDocs.
+Thank you for reading! I'll fill this out way more
 
 ## Final Thoughts
 
-MkDocs is a powerful tool for creating documentation. With its simplicity and extensibility, you can create beautiful documentation for any project.
+and see what else we can build in here :gasp:
 
 ## Resources
 

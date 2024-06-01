@@ -1,18 +1,22 @@
-# Chapter 1: Getting Started
+# Chapter 1: This will be my over view on documentation and what I've done in my current career path
 
-In this chapter, we will cover the basics of getting started with our project.
+Welcome to the fiegellan story of life and death in the software world.
 
 ## Section 1.1: Introduction
 
-Getting started with any project can be daunting, but we’re here to guide you through the process step by step.
+:D hi this is me, and this is you.  so lets see what we can do
 
-## Section 1.1b: Example Code
+## Section 1.2: Example Code
 
 Here's an example Python function that greets the user:
 
+Heres where you can download the file:
 <a href="../code/chapter1/example.py" target="_blank">View example.py</a>
 
-## Section 1.2: Installation
+Heres how to open to a new tab (I hope)
+<a href="https://raw.githubusercontent.com/Fiegellan/career_accomplishments/gh-pages/code/chapter1/example.py" target="_blank">View example.py</a>
+
+## Section 1.3: Some fancy markdown stuff
 
 Here are the steps to install the necessary tools and dependencies:
 
@@ -24,9 +28,3 @@ Here are the steps to install the necessary tools and dependencies:
     ```sh
     pip install mkdocs
     ```
-
-## Section 1.3: Your First Project
-
-Creating your first project is simple. Run the following command to create a new MkDocs project:
-```sh
-mkdocs new my-project
