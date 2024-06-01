@@ -8,6 +8,3 @@ theme:
   name: readthedocs
 plugins:
   - search
-  - include-markdown:
-      encoding: utf-8
-      dedent: true
