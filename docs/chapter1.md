@@ -1,16 +1,30 @@
 # Career Journey
 
-example code:
+## Autodesk (6 years) <a id="autodesk-6-years"></a>
 
-Heres where you can download the file:
+### Role Descriptions <a id="autodesk-role-descriptions"></a>
+- Detail the various positions held and responsibilities.
 
-<a href="../code/chapter1/example.py" target="_blank">View example.py</a>
+### Key Projects and Achievements <a id="autodesk-key-projects"></a>
+- Highlight major projects, contributions, and impact.
+- Used technologies: [Hive](tags/hive.md#autodesk-hive)
 
-Heres how to open to a new tab (I hope):
+### Lessons Learned <a id="autodesk-lessons"></a>
+- Share valuable lessons and skills acquired.
 
-<a href="https://raw.githubusercontent.com/Fiegellan/career_accomplishments/gh-pages/code/chapter1/example.py" target="_blank">View example.py</a>
+## Glassdoor (2 years) <a id="glassdoor-2-years"></a>
 
-## Autodesk (6 years)
+### Role Descriptions <a id="glassdoor-role-descriptions"></a>
+- Detail the various positions held and responsibilities.
+
+### Key Projects and Achievements <a id="glassdoor-key-projects"></a>
+- Highlight major projects, contributions, and impact.
+- Used technologies: [Hive](tags/hive.md#glassdoor-hive), [Microservices](tags/microservices.md#glassdoor-microservices)
+
+### Lessons Learned <a id="glassdoor-lessons"></a>
+- Share valuable lessons and skills acquired.
+
+## Disney (1 year) <a id="disney-1-year"></a>
 
 ### Role Descriptions
 - Detail the various positions held and responsibilities.
@@ -21,29 +35,7 @@ Heres how to open to a new tab (I hope):
 ### Lessons Learned
 - Share valuable lessons and skills acquired.
 
-## Glassdoor (2 years)
-
-### Role Descriptions
-- Detail the various positions held and responsibilities.
-
-### Key Projects and Achievements
-- Highlight major projects, contributions, and impact.
-
-### Lessons Learned
-- Share valuable lessons and skills acquired.
-
-## Disney (1 year)
-
-### Role Descriptions
-- Detail the various positions held and responsibilities.
-
-### Key Projects and Achievements
-- Highlight major projects, contributions, and impact.
-
-### Lessons Learned
-- Share valuable lessons and skills acquired.
-
-## Procore (2 years)
+## Procore (2 years) <a id="procore-2-years"></a>
 
 ### Role Descriptions
 - Detail the various positions held and responsibilities.

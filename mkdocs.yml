@@ -8,6 +8,9 @@ nav:
   - Career Advice: chapter5.md
   - Job Study and Interview Preparation: chapter6.md
   - Conclusion: chapter7.md
+  - Tags:
+    - Hive: tags/hive.md
+    - Microservices: tags/microservices.md
 theme:
   name: material
   palette:
@@ -30,7 +33,6 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
-
   favicon: 'images/favicon.ico'
   language: en
   search:
@@ -41,10 +43,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/fiegellan 
     - icon: fontawesome/brands/linkedin
-      link: www.linkedin.com/in/chrisfiegel
+      link: https://www.linkedin.com/in/chrisfiegel/
   footnote:
     - icon: material/launch
       text: Made with Material for MkDocs
       link: https://squidfunk.github.io/mkdocs-material/
 plugins:
   - search
+  - awesome-pages
