@@ -9,11 +9,11 @@ Welcome to my comprehensive tech career journey. This book documents my experien
     - [Purpose of the Book](#purpose-of-the-book)
     - [How to Use This Book](#how-to-use-this-book)
 
-- [Career Journey](chapter1.md)
-    - [Autodesk (6 years)](chapter1.md#autodesk-6-years)
-    - [Glassdoor (2 years)](chapter1.md#glassdoor-2-years)
-    - [Disney (1 year)](chapter1.md#disney-1-year)
-    - [Procore (2 years)](chapter1.md#procore-2-years)
+- [Career Journey](autodesk/role-descriptions.md)
+    - [Autodesk (6 years)](autodesk/role-descriptions.md)
+    - [Glassdoor (2 years)](glassdoor/role-descriptions.md)
+    - [Disney (1 year)](disney/role-descriptions.md)
+    - [Procore (2 years)](procore/role-descriptions.md)
 
 - [Technical Studies](chapter2.md)
     - [Study Techniques](chapter2.md#study-techniques)

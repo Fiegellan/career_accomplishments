@@ -1,7 +1,23 @@
 site_name: My Tech Career Journey
 nav:
   - Home: index.md
-  - Career Journey: chapter1.md
+  - Career Journey:
+    - Autodesk:
+      - Role Descriptions: autodesk/role-descriptions.md
+      - Key Projects and Achievements: autodesk/key-projects.md
+      - Lessons Learned: autodesk/lessons-learned.md
+    - Glassdoor:
+      - Role Descriptions: glassdoor/role-descriptions.md
+      - Key Projects and Achievements: glassdoor/key-projects.md
+      - Lessons Learned: glassdoor/lessons-learned.md
+    - Disney:
+      - Role Descriptions: disney/role-descriptions.md
+      - Key Projects and Achievements: disney/key-projects.md
+      - Lessons Learned: disney/lessons-learned.md
+    - Procore:
+      - Role Descriptions: procore/role-descriptions.md
+      - Key Projects and Achievements: procore/key-projects.md
+      - Lessons Learned: procore/lessons-learned.md
   - Technical Studies: chapter2.md
   - LeetCode and Technical Interviews: chapter3.md
   - Discussion Points: chapter4.md
