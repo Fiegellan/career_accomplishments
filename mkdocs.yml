@@ -51,3 +51,5 @@ extra:
 plugins:
   - search
   - awesome-pages
+  - tags:
+      tags_file: tags.md

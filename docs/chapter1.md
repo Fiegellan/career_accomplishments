@@ -1,3 +1,11 @@
+---
+tags:
+  - HTML5
+  - JavaScript
+  - CSS
+  - SPARK
+---
+
 # Career Journey
 
 ## Autodesk (6 years) <a id="autodesk-6-years"></a>
@@ -11,6 +19,7 @@
 
 ### Lessons Learned <a id="autodesk-lessons"></a>
 - Share valuable lessons and skills acquired.
+
 
 ## Glassdoor (2 years) <a id="glassdoor-2-years"></a>
 
