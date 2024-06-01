@@ -11,9 +11,11 @@ Welcome to the fiegellan story of life and death in the software world.
 Here's an example Python function that greets the user:
 
 Heres where you can download the file:
+
 <a href="../code/chapter1/example.py" target="_blank">View example.py</a>
 
-Heres how to open to a new tab (I hope)
+Heres how to open to a new tab (I hope):
+
 <a href="https://raw.githubusercontent.com/Fiegellan/career_accomplishments/gh-pages/code/chapter1/example.py" target="_blank">View example.py</a>
 
 ## Section 1.3: Some fancy markdown stuff

@@ -19,4 +19,4 @@ MkDocs supports a variety of extensions. Here are a few useful ones:
 
 ## Section 2.3: Heres a screen shot
 
-![And some images](image.png)
+![DARREN STYLES](darrenstyles.png)
