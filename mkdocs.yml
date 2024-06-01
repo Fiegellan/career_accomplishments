@@ -33,7 +33,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
-  favicon: 'images/favicon.ico'
+  favicon: 'images/dwpicon.png'
   language: en
   search:
     lang: en
