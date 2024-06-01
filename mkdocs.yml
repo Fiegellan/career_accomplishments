@@ -39,9 +39,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername
+      link: https://github.com/fiegellan 
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/yourusername/
+      link: www.linkedin.com/in/chrisfiegel
   footnote:
     - icon: material/launch
       text: Made with Material for MkDocs
