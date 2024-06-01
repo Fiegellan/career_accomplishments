@@ -1,18 +1,33 @@
+# LeetCode and Technical Interviews
 
-### `chapter3.md`
+## Introduction to LeetCode
+- Overview of LeetCode and its importance.
 
-# Chapter 3: Conclusion
+## Problem-Solving Strategies
+- Explain strategies for approaching LeetCode problems.
 
-Thank you for reading! I'll fill this out way more
+## Example Problems and Solutions
+### Easy
+- Provide step-by-step solutions to selected problems.
 
-## Final Thoughts
+### Medium
+- Provide step-by-step solutions to selected problems.
 
-and see what else we can build in here :gasp:
+### Hard
+- Provide step-by-step solutions to selected problems.
 
-## Resources
+## Discussion Points for Problems
+- Discuss the key concepts and variations of problems.
 
-Here are some additional resources to help you continue learning:
+## Interview Questions
+### Common Questions
+- Share common interview questions.
 
-- [MkDocs Documentation](https://www.mkdocs.org/)
-- [MkDocs Material Theme](https://squidfunk.github.io/mkdocs-material/)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
+### Company-Specific Questions
+- Share company-specific interview questions.
+
+## Mock Interviews
+- Describe mock interview experiences and tips.
+
+## Insights from Friends' Interviews
+- Include anecdotal insights and advice from peers.

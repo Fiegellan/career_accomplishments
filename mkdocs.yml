@@ -1,10 +1,50 @@
-site_name: My Book
+site_name: My Tech Career Journey
 nav:
   - Home: index.md
-  - Chapter 1: chapter1.md
-  - Chapter 2: chapter2.md
-  - Chapter 3: chapter3.md
+  - Career Journey: chapter1.md
+  - Technical Studies: chapter2.md
+  - LeetCode and Technical Interviews: chapter3.md
+  - Discussion Points: chapter4.md
+  - Career Advice: chapter5.md
+  - Job Study and Interview Preparation: chapter6.md
+  - Conclusion: chapter7.md
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+
+  favicon: 'images/favicon.ico'
+  language: en
+  search:
+    lang: en
+    separator: '[\s\-]+'
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/yourusername/
+  footnote:
+    - icon: material/launch
+      text: Made with Material for MkDocs
+      link: https://squidfunk.github.io/mkdocs-material/
 plugins:
   - search

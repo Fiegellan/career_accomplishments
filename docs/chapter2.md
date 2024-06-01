@@ -1,22 +1,13 @@
+# Technical Studies
 
-### `chapter2.md`
+## Study Techniques
+- Share effective study methods and habits.
 
-```markdown
-# Chapter 2: Advanced Topics
+## Courses and Certifications
+- List relevant courses and certifications completed.
 
-This chapter dives into more advanced topics.
+## Books and Resources
+- Recommend books, websites, and other learning materials.
 
-## Section 2.1: Customization
-
-and heres what will happen when shit hits the fan
-
-## Section 2.2: Extensions
-
-MkDocs supports a variety of extensions. Here are a few useful ones:
-
-- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/): A theme for MkDocs
-- [mkdocs-macros-plugin](https://mkdocs-macros-plugin.readthedocs.io/en/latest/): A plugin for using macros in your Markdown files
-
-## Section 2.3: Heres a screen shot
-
-![DARREN STYLES](darrenstyles.png)
+## Online Learning Platforms
+- Discuss platforms like Coursera, Udacity, etc.
