@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install dependencies 
         run: |
           pip install mkdocs mkdocs-material mkdocs-awesome-pages-plugin mkdocs-drawio-file
       - name: Deploy to GitHub Pages
