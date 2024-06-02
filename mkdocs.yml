@@ -67,5 +67,6 @@ extra:
 plugins:
   - search
   - awesome-pages
+  - drawio_file
   - tags:
       tags_file: tags.md

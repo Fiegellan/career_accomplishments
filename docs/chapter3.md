@@ -22,6 +22,7 @@
 ## Interview Questions
 ### Common Questions
 - Share common interview questions.
+![sample drawio](sample.drawio)
 
 ### Company-Specific Questions
 - Share company-specific interview questions.
